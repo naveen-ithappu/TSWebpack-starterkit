@@ -2,7 +2,7 @@
 
 This is sample project setup to get started with **WebpackV4** with **Typescript** and **Scss**
 
-###Loaders & Plugins Used
+### Loaders & Plugins Used
 - CSS
     - MiniCssExtractPlugin
     - css-loader
@@ -29,7 +29,7 @@ This is sample project setup to get started with **WebpackV4** with **Typescript
     `webpack-manifest-plugin` - generate manifest.json file
 
          
-###TSConfig
+### TSConfig
 ```
 {
     "compilerOptions": {
@@ -58,10 +58,10 @@ This is sample project setup to get started with **WebpackV4** with **Typescript
 }
 ```
                     
-###NPM Commands
+### NPM Commands
 `npm run dev`  - To start a dev server
 
 `npm run build` - To generate bundle
 
-###.ENV
+### .ENV
 `.env` folder contains environment specific configuration  variables to handle `dev` and `production` modes independently   
